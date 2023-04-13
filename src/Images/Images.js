@@ -1,0 +1,15 @@
+export const Screen_1 = require('../../assets/Screen_1.png');
+export const Screen_2 = require('../../assets/Screen_2.png');
+export const Screen_3 = require('../../assets/Screen_3.png');
+export const LandingArrow = require('../../assets/Arrow1.png');
+export const splashScreen = require('../../assets/splashscreen.png');
+export const LoginPageImage = require('../../assets/loginPageImage.png');
+export const mailIcon = require('../../assets/mailIcon.png');
+export const passwordIcon = require('../../assets/passwordIcon.png');
+export const graph = require('../../assets/graph.png');
+export const resetImage = require('../../assets/resetImage.png');
+export const xpoLogo = require('../../assets/xpoLogo.png');
+export const bellIcon = require('../../assets/Bell.png');
+export const HamburgerIcon = require('../../assets/HamburgerIcon.png');
+export const graphIcon = require('../../assets/GraphIcon.png');
+export const chat = require('../../assets/chat.png');
